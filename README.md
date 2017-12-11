@@ -1,2 +1,3 @@
 # ICET
-Basic Graphical Operations
+Basit Piksel/Grafik İşlemleri
+IC@
