@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\bin\Debug\IC@.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\bin\Debug\IC@.exe
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\bin\Debug\IC@.pdb
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\bin\Debug\IC@.xml
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\obj\Debug\IC@.vbprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\obj\Debug\IC_.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\obj\Debug\IC_.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\obj\Debug\IC@.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\obj\Debug\IC@.exe
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\obj\Debug\IC@.xml
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\obj\Debug\IC@.pdb
+c:\users\hp\documents\visual studio 2015\Projects\IC@\IC@\obj\Debug\IC_.klon.resources
