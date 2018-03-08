@@ -1,0 +1,19 @@
+﻿05.01.2018 00:26 ve ilerleyen saatlerde;
+♣ Siyah-Beyaz Tahmini eklendi.
+♣ Picturebox sizemod değiştirildi.
+♣ Kopyala Opsiyonu silindi.
+♣ Piksel Tahmini 2 Opsiyonu Yeşillendirildi.
+♣ Önceki-Sonraki Modu (Split Screen) Eklendi
+♣ Gereksiz Messagebox'lar Yeşillendirildi(Yorum Satırı).
+♣ Her işleme anlık refresh eklendi.
+♣ Kırmızı,Yeşil,Mavi ve KYM Süzgeç kodları düzeltilip Önceki-Sonraki Moduna göre uyarlandı :)
+♣ Aksiyon Görüntüle Butonu gereksiz olduğu için kaldırıldı.
+♣ Progressbar eklenip işlem süresine göre ayarlandı.
+♣ Dosya açım işleminde picturebox2 1'e eşitlendi.
+♣ Clone fonksiyonu ile istenilen gerçekleşitirildi ( picturebox2 = 1 muhabbeti)
+
+08.03.2018 23:51 ve ilerleyen saatlerde;
+♣ 10 Adet gri filtre eklendi.
+♣ Minik buglar fixlendi.
+♣ Önceki-Sonraki Modu'nda picturebox'ların sizemodu zoom olarak ayarlandı.
+♣ 3 Adet siyah-beyaz filtre eklendi.

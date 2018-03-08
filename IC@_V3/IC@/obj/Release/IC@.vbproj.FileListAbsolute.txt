@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\bin\Release\IC@.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\bin\Release\IC@.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\bin\Release\IC@.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\bin\Release\IC@.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\obj\Release\IC_.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\obj\Release\IC_.klon.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\obj\Release\IC_.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\obj\Release\IC@.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\obj\Release\IC@.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\obj\Release\IC@.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\IC@\IC@\obj\Release\IC@.pdb
